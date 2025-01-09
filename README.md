@@ -26,4 +26,19 @@ A line chart  that shows Revenue based on the transaction count over 4 quarter.
 Category Breakdown:
 Different bar chart representing total revenue is distributed across various categories like Customer job, Expenditure type, Card category, Customer education, Card usage. Helps to identify which categories are contributing the most.
 Weekly Comparison:
-Comparative visualizations of weekly  transaction data to show changes in spending habits. 
+Comparative visualizations of weekly  transaction data to show changes in spending habits.
+
+Project Insights:-
+
+Overview YTD:
+
+• Overall revenue is 57M
+
+• Total interest is 8M
+
+• Total transaction amount is 46M
+
+• Male customers are contributing more in revenue 31M, female 26M
+
+• Blue & Silver credit card are contributing to 93% of overall 
+transactions
